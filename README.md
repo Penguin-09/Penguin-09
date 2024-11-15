@@ -1,1 +1,1 @@
-Currently studying at Bit Academy.
+Momenteel aan het studeren bij Bit Academy.
