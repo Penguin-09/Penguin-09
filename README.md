@@ -8,9 +8,7 @@ Al na een paar dagen wist ik dat de Bit Academy perfect bij mij past. De unieke 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/son-bram/) 
-
-[![Website](https://img.shields.io/badge/Website-%2312100E.svg?logoColor=white)](https://vdburg.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/son-bram/) [![Website](https://img.shields.io/badge/Website-%2312100E.svg?logoColor=white)](https://vdburg.site/)
 
 
 # 💻 Tech Stack:
