@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-Ik ben een enthousiaste student bij de Bit Academy, gespecialiseerd in back-end webdevelopment. Ik heb veel ervaring met PHP, SQL en objectgeoriënteerd programmeren en beschik daarnaast over een goede basiskennis van HTML, CSS en JavaScript.
+Ik ben een enthousiaste student bij de Bit Academy, gespecialiseerd in back-end webdevelopment. Omdat ik streef naar een carrière als full-stack developer, heb ik me ook verdiept in front-end talen en tools. Hierdoor kan ik zowel de back-end als de front-end van applicaties ontwikkelen.
 
 Van jongs af aan ben ik geïnteresseerd in computers en programmeren. Toen ik zes jaar was, volgde ik mijn eerste programmeercursus. Voor een groot deel van mijn jeugd ging ik elke vakantie naar programmeercursussen en -kampen . Daar leerde ik over de basisprincipes van programmeren. Na vijf jaar HAVO te volgen op het Fons Vitae Lyceum in Amsterdam, was duidelijk dat de traditionele manier van lesgeven niet bij mij past. Daarom ging ik op zoek naar een studie die niet alleen aansluit bij mijn interesses, maar waar ik ook op mijn eigen manier kan leren. Zo kwam ik terecht bij de Bit Academy.
 
-Al na een paar dagen wist ik dat de Bit Academy perfect bij mij past. De unieke manier van lesgeven sprak me direct aan: geen traditionele lessen, maar zelfstandig werken aan uitdagende projecten en opdrachten. Dit stelt me in staat om op mijn eigen tempo te leren. Dat tempo ligt over het algemeen hoger dan gemiddeld. De werkwijze versterkt daarnaast mijn zelfstandigheid, probleemoplossend vermogen en passie voor programmeren.
+Na enkele dagen wist ik dat de Bit Academy perfect bij mij past. De praktijkgerichte aanpak, zonder traditionele lessen, stelt me in staat om in mijn eigen tempo te leren, wat algemeen hoger is dan gemiddeld. Deze werkwijze heeft mijn probleemoplossend vermogen en passie voor programmeren ontzettend versterkt.
 
 ## 🌐 Socials:
 
