@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 🧑‍💻 About Me:
 
-Hoi! Ik ben Son, een enthousiaste full-stack developer en student aan de Bit Academy. Ik programmeer al sinds ik jong ben en ben altijd gefascineerd geweest door het bouwen van programma's en websites. In mijn vrije tijd werk ik aan persoonlijke projecten en game ik graag.
+Hoi! Ik ben Son, een enthousiaste full-stack web developer en student aan de Bit Academy. Ik programmeer al sinds ik jong ben en ben altijd gefascineerd geweest door het bouwen van programma's en websites. In mijn vrije tijd werk ik aan persoonlijke projecten en game ik graag.
 
 Van jongs af aan ben ik geïnteresseerd in computers en programmeren. Toen ik zes jaar was, volgde ik mijn eerste programmeercursus. Voor een groot deel van mijn jeugd ging ik elke vakantie naar programmeercursussen en -kampen. Daar leerde ik over de basisprincipes van programmeren. Na vijf jaar HAVO te volgen op het Fons Vitae Lyceum in Amsterdam, was duidelijk dat de traditionele manier van lesgeven niet bij mij past. Daarom ging ik op zoek naar een studie die niet alleen aansluit bij mijn interesses, maar waar ik ook op mijn eigen manier kan leren. Zo kwam ik terecht bij de Bit Academy.
 
