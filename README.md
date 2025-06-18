@@ -12,7 +12,7 @@ Tijdens mijn tijd op de Bit Academy doe ik meer dan alleen de opleiding volgen. 
 
 [Portfolio Website](https://vdburg.site/) | [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ### Front-end 
 HTML/CSS | JavaScript/Node.js | TypeScript | Bootstrap | Tailwind CSS
