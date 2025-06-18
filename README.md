@@ -15,10 +15,10 @@ Tijdens mijn tijd op de Bit Academy doe ik meer dan alleen de opleiding volgen. 
 ## 💻 Tech Stack:
 
 ### Front-end 
-HTML/CSS | JavaScript/Node.js | TypeScript | Bootstrap | Tailwind CSS
+HTML/CSS | JavaScript | TypeScript | Bootstrap | Tailwind CSS
 
 ### Back-end
-PHP | SQL/MySQL | C# | C++ | C
+PHP | Node.js | SQL/MySQL | C# | C++ | C
 
 ### Other
 Git | OOP | SCRUM | Supabase | MongoDB | UML | Arduino
