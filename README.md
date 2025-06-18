@@ -8,10 +8,17 @@ Na enkele dagen wist ik dat de Bit Academy perfect bij mij past. De praktijkgeri
 
 Tijdens mijn tijd op de Bit Academy doe ik meer dan alleen de opleiding volgen. Naast persoonlijke projecten heb ik websites gebouwd voor twee klanten, waaronder mijn vader (je moet immers ergens beginnen). Momenteel werk ik mee aan Type It Down, een wetenschappelijk onderzoek waarbij een hulpmiddel ontwikkeld wordt voor mensen met Parkinson. Het project richt zich op hoe trillingen op verschillende spieren, bewegen van de vingers en daardoor typen bij patiënten kunnen vergemakkelijken. Ik help met het programmeren van de motortjes die verschillende soorten trillingen geven.
 
-## 🌐 Socials:
+## 🔗 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/son-bram/) [![Website](https://img.shields.io/badge/Website-%2312100E.svg?logoColor=white)](https://vdburg.site/)
-
+[Portfolio Website](https://vdburg.site/) | [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
 # 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### Front-end 
+HTML/CSS | JavaScript/Node.js | TypeScript | Bootstrap | Tailwind CSS
+
+### Back-end
+PHP | SQL/MySQL | C# | C++ | C
+
+### Other
+Git | OOP | SCRUM | Supabase | MongoDB | UML | Arduino
