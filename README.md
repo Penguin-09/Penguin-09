@@ -1,6 +1,6 @@
 # 🧑‍💻 About Me:
 
-I’m currently studying Software Development at Bit Academy, where I focus on web development using ReactJS and TailwindCSS. I love working in teams, learning, and creating applications that solve real problems and make a difference for users.
+I'm a web developer with a focus on ReactJS and TailwindCSS. I love working in teams, learning, and creating applications that solve real problems and make a difference for users.
 
 ## 🔗 Socials:
 
